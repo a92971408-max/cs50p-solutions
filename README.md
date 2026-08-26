@@ -1,2 +1,1 @@
-# cs50p-solutions
-my cs50 python first code
+MY first time on Git hub and i dont know what i am gonna do , but i'm just gonna walk the way
